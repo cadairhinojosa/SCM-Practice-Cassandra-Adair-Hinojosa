@@ -1,10 +1,4 @@
----
-title: ReadME Template
-tags: [Templates, Documentation]
 
----
-
----
 title: 'PokeDex Project'
 disqus: hackmd
 ---
