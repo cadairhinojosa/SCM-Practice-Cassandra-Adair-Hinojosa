@@ -6,12 +6,12 @@ public class Calculator {
 
     }
 
-
+    //Method for Addition
     public int add(int num1, int num2) {
         return num1 + num2;
 
     }
-
+    //Setting up Methods for Div,Mul,Sub
     public int divide(int num1, int num2) {
         return num1 / num2;
     }
