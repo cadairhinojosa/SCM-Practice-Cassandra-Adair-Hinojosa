@@ -1,8 +1,3 @@
-
-title: 'PokeDex Project'
-disqus: hackmd
----
-
 PokeDex Project
 ===
 
