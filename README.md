@@ -1,1 +1,0 @@
-# SCM-Practice-Cassandra-Adair-Hinojosa
