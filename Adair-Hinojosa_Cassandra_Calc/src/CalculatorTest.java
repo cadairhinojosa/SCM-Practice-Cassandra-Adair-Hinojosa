@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 class CalculatorTest {
-
+    //Setting up Testing Methods
     @org.junit.jupiter.api.Test
     void testAdd() {
         Calculator calculator = new Calculator();
